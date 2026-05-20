@@ -1,5 +1,5 @@
 # 🚀 Enterprise Workforce Analytics & Data Engineering Project
-<img width="1162" height="542" alt="image" src="https://github.com/user-attachments/assets/0edbff69-7f7b-4d7e-b1bd-41215bdb67f8" />
+
 
 
 ## Project Overview
