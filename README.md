@@ -1,5 +1,6 @@
 # 🚀 Enterprise Workforce Analytics & Data Engineering Project
 
+👉 **[Click Here to View and Download the Complete PDF Executive Report](Report%20Summary.pdf)**
 
 
 ## Project Overview
